@@ -1,0 +1,10 @@
+theme = OneHalfDark
+font-family = "SauceCodePro Nerd Font"
+font-size = 13.0
+cursor-style = block
+cursor-style-blink = true
+background-opacity = 0.9
+title = "RTFM"
+window-padding-x = 4
+window-padding-y = 2
+
