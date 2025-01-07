@@ -88,6 +88,7 @@ lsp.format_on_save({
 			"javascript",
 			"typescript",
 			"prettier",
+			"json",
 			"lua",
 			"typescriptreact",
 			"javascriptreact",
