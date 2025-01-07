@@ -1,8 +1,9 @@
-theme = OneHalfDark
+theme = Andromeda
 font-family = "SauceCodePro Nerd Font"
 font-size = 13.0
 cursor-style = block
-cursor-style-blink = true
+cursor-style-blink = false
+shell-integration-features = no-cursor
 background-opacity = 0.9
 title = "RTFM"
 window-padding-x = 4
