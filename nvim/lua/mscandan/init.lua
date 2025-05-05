@@ -1,7 +1,7 @@
 require("mscandan.remap")
 require("mscandan.general")
 require("mscandan.highlights")
-require("mscandan.plugins")
+require("config.lazy")
 require("mscandan.jestzo")
 
 local has = function(x)
